@@ -7,4 +7,5 @@ RetailGPT is an AI-powered decision support system for retailers that provides d
 - design.md
 
  ----Track----
+ 
 AI for Retail, Commerce & Market Intelligence
